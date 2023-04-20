@@ -1,4 +1,7 @@
-
+/* Sumar dos arreglos
+Sumar los elementos de cada una de las posiciones de dos arreglos y guardar el resultado en otro arreglo.
+El arreglo tiene dimensión 6 y los números de los dos vectores los carga el usuario.
+*/
 import * as rls from "readline-sync";
 let arr1: number[] = new Array(6);
 let arr2: number[] = new Array(6);
